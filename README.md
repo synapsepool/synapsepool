@@ -1,2 +1,3 @@
-# SynapsePool – Neural-Optimized QUBIC Mining Pool
+Optimized QUBIC Mining Pool
+
 
